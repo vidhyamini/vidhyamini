@@ -1,5 +1,5 @@
 
-# Hi there, I'm Vidhya! 👋
+# Hi there, I'm Vidhyamini! 👋
 
 ### 🎓 Master's in Analytics & AI | Software Developer | Aspiring Product & Analytics Professional
 
