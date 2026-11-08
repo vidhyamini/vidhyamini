@@ -87,9 +87,9 @@ Currently pursuing my Master's in Analytics & AI at **ESMT Berlin**, I'm explori
 
 I'm always interested in connecting with people working in technology, analytics, AI, and product development.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhyamini-routhu/)
 
-📧 Email: YOUR_EMAIL_HERE
+📧 Email: vidhyamini.berlin@gmail.com
 
 ---
 
