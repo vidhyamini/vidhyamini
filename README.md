@@ -12,7 +12,7 @@ Currently pursuing my Master's in Analytics & AI at **ESMT Berlin**, I'm explori
 ## 🚀 About Me
 
 - 🎓 Pursuing a Master's in Analytics & AI at ESMT Berlin.
-- 💻 Background in full-stack development and capital markets technology.
+- 💻 Background in full-stack development and asset markets and financial technology.
 - 📊 Interested in analytics, product strategy, and data-driven decision-making.
 - 🌱 Currently expanding my knowledge of Python, AI, and business analytics.
 - 💡 Passionate about learning by doing, experimenting, and building practical solutions.
@@ -48,29 +48,10 @@ Currently pursuing my Master's in Analytics & AI at **ESMT Berlin**, I'm explori
 
 > 🚧 Projects will be added as I continue building and exploring.
 
-### 📌 Project 1 — [Project Name]
+### 📌 Project 1 — GenZ Lending system
 
-**Description:** A brief overview of the project, the problem it solves, and the technologies used.
 
-- 🔧 Technologies: `[Technology 1]`, `[Technology 2]`
-- 🎯 Focus: [Analytics / AI / Product Development]
-- 🔗 [View Project](YOUR_PROJECT_LINK)
-
-### 📌 Project 2 — [Project Name]
-
-**Description:** A brief overview of the project and its key outcomes.
-
-- 🔧 Technologies: `[Technology 1]`, `[Technology 2]`
-- 🎯 Focus: [Analytics / AI / Product Development]
-- 🔗 [View Project](YOUR_PROJECT_LINK)
-
-### 📌 Project 3 — [Project Name]
-
-**Description:** A practical project showcasing technical or analytical skills.
-
-- 🔧 Technologies: `[Technology 1]`, `[Technology 2]`
-- 🎯 Focus: [Analytics / AI / Product Development]
-- 🔗 [View Project](YOUR_PROJECT_LINK)
+# yet to be updated...
 
 ---
 
